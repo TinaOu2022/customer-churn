@@ -2,6 +2,8 @@
 
 The Jupter notebook code and detailed analysis is here: [Code](https://github.com/XinyanOu/customer-churn/blob/main/Telecom_Customer_Churn.ipynb)
 
+This machine learning model is deployed to a Web App: [App](http://34.125.48.182:5000/)
+
 ### Background
 This project focuses on **predicting customer behavior with the aim of enhancing customer retention.**
 
